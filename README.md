@@ -18,7 +18,7 @@
 
 ## Overview
 
-This project analyzes global economic indicators sourced from the World Bank to identify macroeconomic patterns across countries. Using K-Means clustering, countries are grouped by economic behavior — not geography — and the results are surfaced through an interactive Streamlit dashboard for dynamic exploration.
+This project analyzes global economic indicators sourced from the World Bank to identify macroeconomic patterns across countries. Using K-Means clustering, countries are grouped by economic behavior — not geography  and the results are surfaced through an interactive Streamlit dashboard for dynamic exploration.
 
 ---
 
